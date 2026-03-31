@@ -190,3 +190,74 @@ Groq API / LLM
 AI Response Generation
    ↓
 Personalized Plan Displayed to User
+
+---
+# How It Works
+The user enters inputs such as mood, energy, budget, time, and priority.
+The frontend sends this data to the Flask backend.
+The backend processes the inputs.
+The processed data is sent to the Groq API.
+The AI generates a personalized daily plan.
+The output is returned and displayed on the frontend.
+Installation and Setup
+1. Clone the repository
+git clone https://github.com/your-username/roamio-ai.git
+cd roamio-ai
+2. Install dependencies
+pip install flask flask-cors openai
+3. Add API Key
+
+Open app.py and replace:
+
+api_key="your_api_key_here"
+4. Run the application
+python app.py
+5. Open in browser
+http://127.0.0.1:5000
+Example Input
+Mood: Tired
+Energy: Low
+Budget: Low
+Time: Limited
+Priority: Study
+
+The system generates a balanced plan including productive tasks, self-care, and practical suggestions.
+
+Screenshots
+
+Include the following in your repository:
+
+Homepage
+Input Form
+Generated Output
+Dashboard
+Deployment
+
+The project can be deployed using:
+
+Render
+Railway
+Replit
+Vercel (frontend hosting)
+Challenges Faced
+Integrating frontend and backend efficiently
+Structuring AI-generated responses
+Maintaining balance between design and functionality
+Future Scope
+User authentication system
+Planner history storage
+Notifications and reminders
+Calendar integration
+Mobile application version
+Contribution
+
+Pratiksha Singh
+Frontend development, UI/UX design, layout and styling
+
+Conclusion
+
+ROAMIO AI demonstrates how artificial intelligence can be used to create practical and personalized daily planning systems tailored for students.
+
+License
+
+This project is developed for academic purposes.
