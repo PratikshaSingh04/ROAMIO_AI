@@ -130,16 +130,19 @@ The website has a stylish and visually immersive UI featuring:
 ---
 
 ## 4. EXPERIENCE
-The dashboard visually presents student lifestyle indicators such as:
+The main purpose of this section is to simulate how ROAMIO AI can respond to different student situations in real time.
 
-- Productivity balance
-- Fun ratio
-- Self-care ratio
-- Mood pulse
-- Budget friendliness
-- Weekly energy rhythm
+It is designed to represent common student states such as:
+	•	deadline stress
+	•	burnout
+	•	low budget days
+	•	rainy lazy days
+	•	social reset days
+	•	focus mode days
 
----
+This section allows the user to interact with these modes directly and instantly see relevant recommendations.
+
+So instead of only depending on form submission, this part provides a clickable, frontend-driven user experience.
 
 ## 5. Frontend Dynamic Interactions
 Even without API connectivity, the project can include:
