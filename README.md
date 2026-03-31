@@ -174,25 +174,35 @@ This ensures the project remains functional and demonstrable during presentation
 
 ---
 
-# 🧩 Project Architecture
+## SCREENSHORTS  
+![WhatsApp Image 2026-03-31 at 16 16 44](https://github.com/user-attachments/assets/9e7a957c-40bd-4312-affa-b4af2ef4e83d)
+![WhatsApp Image 2026-03-31 at 16 16 29](https://github.com/user-attachments/assets/6b2f1117-0bc0-4d93-aa8b-45eb267e5aa8)
+![WhatsApp Image 2026-03-31 at 16 15 49](https://github.com/user-attachments/assets/763e82c8-d15c-4656-9244-225e9ffe3b0f)
+![WhatsApp Image 2026-03-31 at 16 18 26](https://github.com/user-attachments/assets/b3ef8725-64ca-4a86-9277-a731b5e2a315)
+![WhatsApp Image 2026-03-31 at 16 18 05](https://github.com/user-attachments/assets/e7bc9411-b79b-49d0-bfe7-9e9e0d248e16)
+![WhatsApp Image 2026-03-31 at 16 17 23](https://github.com/user-attachments/assets/40405fe9-d9f8-4623-8645-cb23585abf40)
+![WhatsApp Image 2026-03-31 at 16 17 03](https://github.com/user-attachments/assets/aab8c606-6723-4039-a139-8863f3500bab)
+![WhatsApp Image 2026-03-31 at 16 19 45](https://github.com/user-attachments/assets/53e67e65-c6da-41d3-a900-87d9de25232d)
+![WhatsApp Image 2026-03-31 at 16 19 29](https://github.com/user-attachments/assets/9251107c-64e5-44c2-a11d-455146b45d7f)
 
-```text
-User Inputs
-   ↓
-Frontend Form (HTML/CSS/JS)
-   ↓
-Flask Backend (Python)
-   ↓
-Prompt Construction
-   ↓
-Groq API / LLM
-   ↓
-AI Response Generation
-   ↓
-Personalized Plan Displayed to User
+## Project Structure
+ROAMIO-AI/
+│
+├── app.py              # Flask backend (main server file)
+├── templates/          # HTML files
+│   └── index.html
+│
+├── static/             # CSS, JS, images
+│   ├── css/
+│   ├── js/
+│   └── images/
+│
+└── README.md           # Documentation
 
 ---
-# How It Works
+
+## How It Works
+
 The user enters inputs such as mood, energy, budget, time, and priority.
 The frontend sends this data to the Flask backend.
 The backend processes the inputs.
@@ -223,17 +233,9 @@ Priority: Study
 
 The system generates a balanced plan including productive tasks, self-care, and practical suggestions.
 
-Screenshots
+---
 
-Include the following in your repository:
-
-Homepage
-Input Form
-Generated Output
-Dashboard
-Deployment
-
-The project can be deployed using:
+## The project can be deployed using:
 
 Render
 Railway
@@ -249,15 +251,28 @@ Planner history storage
 Notifications and reminders
 Calendar integration
 Mobile application version
-Contribution
 
+---
+
+## Contribution
+
+Anam Srivastva
 Pratiksha Singh
-Frontend development, UI/UX design, layout and styling
+Tanishka Pandey
+Mahek Aggarwal
 
-Conclusion
+---
+
+## Conclusion
 
 ROAMIO AI demonstrates how artificial intelligence can be used to create practical and personalized daily planning systems tailored for students.
 
-License
+---
+
+## License
+
+This project is developed for academic purposes.
+---
+
 
 This project is developed for academic purposes.
