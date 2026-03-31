@@ -257,7 +257,7 @@ Mobile application version
 
 ---
 
-## ContributORS
+## Contributors
 
 Anam Srivastava,
 Pratiksha Singh,
