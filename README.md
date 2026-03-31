@@ -1,4 +1,4 @@
-# 🚀 ROAMIO AI  
+# ROAMIO AI  
 ### *An AI-Powered Student Day Planner for Smarter Daily Decisions*
 
 ROAMIO AI is a modern, student-focused web application designed to help college students plan their day more effectively based on their **mood, energy level, budget, available time, weather, and personal priorities**.
@@ -14,7 +14,7 @@ The project combines:
 
 ---
 
-# 📌 Project Overview
+# Project Overview
 
 College life is unpredictable.
 
@@ -27,7 +27,7 @@ Some days students feel:
 
 Traditional planners are often rigid and static.
 
-## 💡 Solution:
+## Solution:
 ROAMIO AI acts as a **smart AI lifestyle assistant** that helps students decide:
 
 - What to focus on
@@ -44,7 +44,7 @@ This makes planning:
 
 ---
 
-# 🎯 Problem Statement
+# Problem Statement
 
 Students often struggle to structure their day effectively because their routines are influenced by multiple changing factors such as:
 
@@ -77,22 +77,22 @@ The main objective of ROAMIO AI is to build a **student-centered AI planning ass
 
 ---
 
-# 👥 Target Audience
+# Target Audience
 
 ROAMIO AI is primarily designed for:
 
-- 🎓 College students
-- 📚 Students with heavy academic workload
-- 💸 Budget-conscious students
-- 😵 Students facing burnout or stress
-- ⏰ Students with poor time management
-- 🌧 Students whose plans depend on weather or energy
+- College students
+- Students with heavy academic workload
+- Budget-conscious students
+- Students facing burnout or stress
+- Students with poor time management
+- Students whose plans depend on weather or energy
 
 ---
 
-# ✨ Key Features
+#  Key Features
 
-## 1. 🧾 Personalized Daily Planning
+## 1. Personalized Daily Planning
 Users can input:
 - Mood
 - Energy level
@@ -105,7 +105,7 @@ The system then generates a **custom plan**.
 
 ---
 
-## 2. 🤖 AI-Generated Smart Suggestions
+## 2. AI-Generated Smart Suggestions
 Using Generative AI, the app suggests:
 
 - **Productive tasks**
@@ -116,7 +116,7 @@ Using Generative AI, the app suggests:
 
 ---
 
-## 3. 🎨 Modern Dark Gen-Z Interface
+## 3. Modern Dark Gen-Z Interface
 The website has a stylish and visually immersive UI featuring:
 
 - Dark grungy aesthetic
@@ -129,7 +129,7 @@ The website has a stylish and visually immersive UI featuring:
 
 ---
 
-## 4. 📊 EXPERIENCE
+## 4. EXPERIENCE
 The dashboard visually presents student lifestyle indicators such as:
 
 - Productivity balance
@@ -141,7 +141,7 @@ The dashboard visually presents student lifestyle indicators such as:
 
 ---
 
-## 5. 🔁 Frontend Dynamic Interactions
+## 5. Frontend Dynamic Interactions
 Even without API connectivity, the project can include:
 - interactive UI states
 - click-based smart outputs
@@ -152,7 +152,7 @@ This ensures the project remains functional and demonstrable during presentation
 
 ---
 
-# 🏗️ Tech Stack Used
+# Tech Stack Used
 
 ## Frontend
 - **HTML5**
