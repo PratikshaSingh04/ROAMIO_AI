@@ -129,7 +129,7 @@ The website has a stylish and visually immersive UI featuring:
 
 ---
 
-## 4. 📊 Dashboard Visualization
+## 4. 📊 EXPERIENCE
 The dashboard visually presents student lifestyle indicators such as:
 
 - Productivity balance
@@ -141,12 +141,7 @@ The dashboard visually presents student lifestyle indicators such as:
 
 ---
 
-## 5. 👨‍💻 Founder Showcase
-A dedicated founder/team section introduces the creators behind the project and highlights team contributions.
-
----
-
-## 6. 🔁 Frontend Dynamic Interactions
+## 5. 🔁 Frontend Dynamic Interactions
 Even without API connectivity, the project can include:
 - interactive UI states
 - click-based smart outputs
