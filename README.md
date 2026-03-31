@@ -259,7 +259,7 @@ Mobile application version
 
 ## ContributORS
 
-Anam Srivastva,
+Anam Srivastava,
 Pratiksha Singh,
 Tanishka Pandey,
 Mahek Aggarwal,
