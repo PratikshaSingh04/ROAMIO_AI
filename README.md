@@ -65,7 +65,7 @@ Using **Generative AI** to create **dynamic, personalized daily plans** based on
 
 ---
 
-# 🧠 Objective of the Project
+# Objective of the Project
 
 The main objective of ROAMIO AI is to build a **student-centered AI planning assistant** that:
 
