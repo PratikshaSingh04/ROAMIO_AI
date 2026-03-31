@@ -214,7 +214,7 @@ The AI generates a personalized daily plan.
 The output is returned and displayed on the frontend.
 Installation and Setup
 1. Clone the repository
-git clone https://github.com/your-username/roamio-ai.git
+git clone [https://github.com/PratikshaSingh04/ROAMIO_AI]
 cd roamio-ai
 2. Install dependencies
 pip install flask flask-cors openai
