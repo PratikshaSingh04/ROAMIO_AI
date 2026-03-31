@@ -254,12 +254,12 @@ Mobile application version
 
 ---
 
-## Contribution
+## ContributORS
 
-Anam Srivastva
-Pratiksha Singh
-Tanishka Pandey
-Mahek Aggarwal
+Anam Srivastva,
+Pratiksha Singh,
+Tanishka Pandey,
+Mahek Aggarwal,
 
 ---
 
